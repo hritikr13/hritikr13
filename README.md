@@ -62,10 +62,10 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hritikr13" target="_blank">
+  <a href="https://www.linkedin.com/in/hritik-ray-b062a6173/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hritik%20Ray-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:hritikrayofficial@gmail.com" target="_blank">
+  <a href="mailto:hritikr13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-hritikr13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
