@@ -37,8 +37,7 @@
 ##### 🔍 Project Preview:
 
 <p align="center">
-  [<img src="images/flight-preview.png" width="80%" alt="Flight Booking UI Preview" />](https://raw.githubusercontent.com/hritikr13/hritikr13/main/images/flight-preview.png
-)
+  <img src="https://raw.githubusercontent.com/hritikr13/hritikr13/main/images/flight-preview.png" width="80%" alt="Flight Booking UI Preview" />
 </p>
 
 ---
