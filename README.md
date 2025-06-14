@@ -37,7 +37,8 @@
 ##### 🔍 Project Preview:
 
 <p align="center">
-  <img src="images/flight-preview.png" width="80%" alt="Flight Booking UI Preview" />
+  [<img src="images/flight-preview.png" width="80%" alt="Flight Booking UI Preview" />](https://raw.githubusercontent.com/hritikr13/hritikr13/main/images/flight-preview.png
+)
 </p>
 
 ---
@@ -66,12 +67,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Hritik%20Ray-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hritikrayofficial@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-hritikrayofficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-hritikr13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
